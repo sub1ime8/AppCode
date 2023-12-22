@@ -88,7 +88,7 @@ class App extends Component {
                         fontColor: "blue",
                     }}
                 >
-                    10WeeksofCloudOps - TODO LIST
+                    11WeeksofCloudOps - TODO LIST
                 </Row>
   
                 <hr />
