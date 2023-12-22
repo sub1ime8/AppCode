@@ -85,9 +85,10 @@ class App extends Component {
                         alignItems: "center",
                         fontSize: "3rem",
                         fontWeight: "bolder",
+                        fontColor: "blue",
                     }}
                 >
-                    11WeeksofCloudOps - TODO LIST
+                    10WeeksofCloudOps - TODO LIST
                 </Row>
   
                 <hr />
