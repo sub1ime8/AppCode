@@ -85,6 +85,7 @@ class App extends Component {
                         alignItems: "center",
                         fontSize: "3rem",
                         fontWeight: "bolder",
+                        color: "blue",
                     }}
                 >
                     10WeeksofCloudOps - TODO LIST
